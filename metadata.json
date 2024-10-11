@@ -1,0 +1,17 @@
+{
+  "name": "My Token",
+  "symbol": "MTK",
+  "description": "A description of my token.",
+  "image": "https://link-to-image.com/token.png",
+  "external_url": "https://my-token-website.com",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": "Fast"
+    },
+    {
+      "trait_type": "Power",
+      "value": "High"
+    }
+  ]
+}
