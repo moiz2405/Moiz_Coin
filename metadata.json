@@ -1,9 +1,8 @@
 {
-  "name": "My Token",
+  "name": "MoiCoin",
   "symbol": "MTK",
-  "description": "A description of my token.",
-  "image": "https://link-to-image.com/token.png",
-  "external_url": "https://my-token-website.com",
+  "description": "Best Crypto Token Out Their",
+  "image": "https://moiz2405.github.io/Moiz_Coin/MoizCoin.jpg",
   "attributes": [
     {
       "trait_type": "Speed",
